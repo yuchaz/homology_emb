@@ -1,6 +1,6 @@
-# The decomposition of the higher-order homology embedding constructed from the $k$-Laplaciandata
+# The decomposition of the higher-order homology embedding constructed from the $k$-Laplacian
 - Author: Yu-Chia Chen <yuchaz@uw.edu>
-- LICENSE: Simplified BSD https://github.com/yuchaz/homology_emb/blob/main/LICENSE
+- LICENSE: [Simplified BSD](https://github.com/yuchaz/homology_emb/blob/main/LICENSE)
 
 The source code includes example for *synthetic* manifolds only. Please follow the links in the `neurips21-supp.pdf` to download the real datasets.
 
